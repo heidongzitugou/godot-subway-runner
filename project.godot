@@ -55,6 +55,6 @@ ui_pause={
 
 [rendering]
 
-renderer/rendering_method.mobile="gl_compatibility"
 environment/defaults/default_clear_color=Color(0.15, 0.22, 0.28, 1)
-anti_aliasing/quality/msaa_3d=1
+anti_aliasing/quality/msaa_3d=2
+anti_aliasing/quality/use_taa=true

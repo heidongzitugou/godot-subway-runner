@@ -4,6 +4,9 @@
 # Godot editor cache
 .godot/
 
+# Local Godot editor binary
+godot-4.3/
+
 # Godot export presets (contains credentials)
 # export_presets.cfg
 
