@@ -1,0 +1,16 @@
+# Godot exports
+/build/
+
+# Godot editor cache
+.godot/
+
+# Godot export presets (contains credentials)
+# export_presets.cfg
+
+# Claude skills and config
+.claude/
+
+# OS junk
+.DS_Store
+Thumbs.db
+*.swp
